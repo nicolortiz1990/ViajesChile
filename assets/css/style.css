@@ -1,0 +1,19 @@
+/*nav bar*/
+
+nav {
+    background-color:transparent;
+}
+header {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.card{
+    background: teal;
+}
