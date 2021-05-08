@@ -18,3 +18,17 @@ body {
 #footer {
     background-color: teal;
 }
+.img-card{
+    height: 180px;
+}
+.sinpadding {
+    padding: 0;
+}
+.fondoicono{
+    background-color: teal;
+}
+.center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
