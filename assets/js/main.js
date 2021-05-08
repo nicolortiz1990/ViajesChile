@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $("a").click(function (event) {
+    $(".nav-link").click(function (event) {
         event.preventDefault()
         var gato = this.hash;
         $("html").animate({

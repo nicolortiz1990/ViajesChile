@@ -18,20 +18,36 @@ body {
 #footer {
     background-color: teal;
 }
-.img-card{
+
+.img-card {
     height: 180px;
 }
+
 .sinpadding {
     padding: 0;
 }
-.fondoicono{
+
+.fondoicono {
     background-color: teal;
 }
+
 .center {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.popover-header{
+
+.popover-header {
     background-color: teal;
+}
+
+.fuente-footer {
+    font-family: Oswald;
+    font-weight: 400;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #ade4e6;
 }
